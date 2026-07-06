@@ -1,0 +1,63 @@
+
+.recipe {
+    font-size: 35px;
+    color: goldenrod;
+    background-color: blanchedalmond;
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif
+}
+
+#ulindex {
+    outline: #ff0505;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center;
+    
+    
+}
+
+#pudim {
+    width: 900px;
+    image-orientation: flip;
+}
+
+p#title {
+    font-size: 50px;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: lightgreen;
+    color: black;
+}
+
+.title {
+    color: #ff0505;
+    outline: goldenrod;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+}
+
+div.Ingri, 
+div.Steps {
+    font-family: Arial, Helvetica, sans-serif;
+    color: goldenrod;
+    font-weight: 900;
+    font-size: 40px;
+    outline: rgb(8, 0, 0);
+    text-align: center;
+    background-color: blanchedalmond;
+    
+}
+
+.text {
+    color: #380404;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 100;
+}
+
+body {
+    background-color: rgb(243, 195, 124);
+}
